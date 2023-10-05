@@ -2,4 +2,4 @@
 <img src="https://apod.nasa.gov/apod/image/2310/MoValleyEclipse1024.jpg" alt="nasa picture of the day" width="800"/>
 
 Tracking along a narrow path, the shadow of a new moon will race across North, Central, and South America, on October 14. When viewed from the shadow path the apparent size of the lunar disk will not quite completely cover the Sun though. Instead, the moon in silhouette will appear during the minutes of totality surrounded by a fiery ring, an annular solar eclipse more dramatically known as a ring of fire eclipse. This striking time lapse sequence from May of 2012 illustrates the stages of a ring of fire eclipse. From before eclipse start until sunset, they are seen over the iconic buttes of planet Earth's Monument Valley. Remarkably, the October 14 ring of fire eclipse will also be visible over Monument Valley, beginning after sunrise in the eastern sky.
-updated at 05.10.2023, 15:38:49
+readme updated at 10/5/2023, 1:43:03 PM
