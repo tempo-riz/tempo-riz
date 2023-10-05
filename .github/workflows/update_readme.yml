@@ -30,6 +30,7 @@ jobs:
           node update.js > README.md
 
       - name: Commit and push if changed
+        # https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
