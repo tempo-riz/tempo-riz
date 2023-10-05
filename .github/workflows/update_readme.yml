@@ -39,7 +39,7 @@ jobs:
             git diff
             git config --global user.email "tempo2riz@gmail.com"
             git config --global user.name "tempo-riz"
-            git commit -am "chore: updated content" || exit 0
+            git commit -am "readme updated" || exit 0
             git push
 
       
