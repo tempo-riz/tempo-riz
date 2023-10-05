@@ -15,13 +15,11 @@ axios.get(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KE
     });
 
 function format(data) {
-    const txt = `# ${data.title}
-<img src="${data.url}" alt="nasa picture of the day" width="800"/>
+    const txt = `# ${data.title} - NASA Picture of the Day
+<img src="${data.url}" alt="nasa picture of the day" width="300"/>
 
-${data.explanation}
 readme updated at ${new Date().toLocaleString()}
 `
-
     fs.writeFileSync('README.md', txt)
 
 }

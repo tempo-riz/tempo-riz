@@ -1,11 +1,11 @@
-name: Update README to create a cool looking profile
+name: Update README with NASA's picture of the day
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    # every 5 min
-    - cron: '*/5 * * * *'
+    # each day at 8:00
+    - cron: '0 8 * * *'
 
 jobs:
   update-readme:
