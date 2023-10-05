@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit and push if changed
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |-
             git diff
             git config --global user.email "tempo2riz@gmail.com"
