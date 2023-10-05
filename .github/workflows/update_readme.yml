@@ -3,9 +3,9 @@ name: Update README to create a cool looking profile
 on:
   push:
   workflow_dispatch:
-  schedule:
-    # every 5 min
-    - cron: '*/5 * * * *'
+  # schedule:
+  #   # every 5 min
+  #   - cron: '*/5 * * * *'
 
 jobs:
   update-readme:
