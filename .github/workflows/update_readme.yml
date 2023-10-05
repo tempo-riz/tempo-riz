@@ -1,0 +1,52 @@
+name: Update README to create a cool looking profile
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # every 5 min
+    - cron: '*/5 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        run: npm i
+
+      - name: Update README.md file
+        run: |
+          node update.js > README.md
+
+      - name: Commit and push if changed
+        run: |-
+            git diff
+            git config --global user.email "bot@example.com"
+            git config --global user.name "README-bot"
+            git commit -am "chore: updated content" || exit 0
+            git push
+
+        env:
+          CI: true
+      - name: commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Melvynx
+          author_email: melvynmal@gmail.com
+          force: false
+          signoff: false
+          message: ':memo: README.md updated by Gabot'
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
