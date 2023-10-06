@@ -3,7 +3,58 @@ const axios = require('axios');
 const fs = require('fs');
 
 
+const ref = new Date('2023-10-08'); // Sunday October 8, 2023
 
+function getNbWeeks(date1, date2) {
+    const timeDifference = Math.abs(date1.getTime() - date2.getTime());
+
+    // Convert the time difference to weeks (1 week = 7 days)
+    const weeksDifference = timeDifference / (7 * 24 * 60 * 60 * 1000);
+
+    return Math.floor(weeksDifference);
+}
+
+function iterate_test() {
+    const startDate = ref;
+    const endDate = new Date(ref.getTime()).setFullYear(ref.getFullYear() + 1);
+
+    const currentDate = new Date(startDate);
+
+    while (currentDate <= endDate) {
+        if (currentDate.getDay() === 0) {
+            console.log(); 
+        }
+        console.log(currentDate.toDateString(), isSpecialWeek(currentDate) || isSpecialDay(currentDate) ? "<---" : "");
+        currentDate.setDate(currentDate.getDate() + 1); // Move to the next day
+    }
+}
+
+
+function isSpecialWeek(day) {
+
+    const d = new Date(day.getTime());
+
+    const firstDayOfTheWeek = new Date(
+        d.setDate(d.getDate() - d.getDay()),
+    );
+
+    // interval in milliseconds for 4 weeks
+    const intervalInMilliseconds = 4 * 7 * 24 * 60 * 60 * 1000;
+
+    const timeDifference = firstDayOfTheWeek - ref;
+
+    return timeDifference % intervalInMilliseconds < 24 * 60 * 60 * 1000
+
+}
+
+function isSpecialDay(today) {
+
+    const nb = getNbWeeks(today, ref)
+    const day = today.getDay()
+    // Sunday or saturday
+    return day == 0 && nb % 8 >= 4 || day == 6 && nb % 8 < 4;
+
+}
 
 
 function format(data) {
@@ -14,68 +65,25 @@ function format(data) {
 
 }
 
-function isSpecialDay() {
+
+// Update the readme on special days
+function main() {
     const today = new Date();
 
-
-}
-
-
-function main() {
-
-    if (!isSpecialDay()) {
-        return
+    if (!isSpecialDay(today) && !isSpecialWeek(today)) {
+        return console.log('not a special day')
     }
 
     axios.get(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`)
         .then(response => format(response.data))
         .catch(error => {
             console.log(error);
-            // read backup.md and write to README.md
-            const str = fs.readFileSync('backup.md');
-            fs.writeFileSync('README.md', str)
-
+            //fallback
+            format({
+                title: "Edwin Hubble Discovers the Universe",
+                url: "https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg"
+            })
         });
+};
 
-}
-
-// main()
-
-
-// TODO : for now returns true on every 4th sunday, check if the current day belongs to the same week 
-function check(today) {
-    //yyyy-mm-dd
-    const referenceDate = new Date('2023-01-07'); // thats a sunday
-
-    // Calculate the interval in milliseconds for 4 weeks
-    const intervalInMilliseconds = 4 * 7 * 24 * 60 * 60 * 1000;
-
-    // Calculate the time difference in milliseconds
-    const timeDifference = today - referenceDate;
-
-    //if the day is in this week
-    if(timeDifference >= 0 && timeDifference % intervalInMilliseconds < 24 * 60 * 60 * 1000){
-        return true
-    }
-    return false
-
-}
-
-
-
-function iterateThroughDaysOfYear(year, checkFunc) {
-    const startDate = new Date(year, 0, 1); // January 1st of the given year
-    const endDate = new Date(year, 11, 31); // December 31st of the given year
-
-    const currentDate = new Date(startDate);
-
-    while (currentDate <= endDate) {
-        if (currentDate.getDay() === 0) {
-            console.log(); // Print the current date
-        }
-        console.log(currentDate.toDateString(), checkFunc(currentDate) ? "<---" : ""); // Print the current date
-        currentDate.setDate(currentDate.getDate() + 1); // Move to the next day
-    }
-}
-
-iterateThroughDaysOfYear(2023,check);
+main()
