@@ -1,14 +1,14 @@
-name: Update README with NASA's picture of the day
+name: Update README with NASA's picture of the day and stats
 
 on:
   push:
   workflow_dispatch:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule
   schedule:
-    # each day at 8:00
-    - cron: '0 8 * * *'
     # every 5 minutes for testing
     # - cron: '*/5 * * * *'
+    # each day at 8:00 AND 20:00 (UTC)
+    - cron: '0 8,20 * * *'
 
 jobs:
   update-readme:

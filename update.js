@@ -4,6 +4,8 @@ const fs = require('fs');
 
 
 const ref = new Date('2023-10-08'); // Sunday October 8, 2023
+const SEPARATOR = '&nbsp; &nbsp; &nbsp; ' // 3 nb spaces, and the reference to splitting the file
+const F = 'README.md'
 
 function getNbWeeks(date1, date2) {
     const timeDifference = Math.abs(date1.getTime() - date2.getTime());
@@ -22,7 +24,7 @@ function iterate_test() {
 
     while (currentDate <= endDate) {
         if (currentDate.getDay() === 0) {
-            console.log(); 
+            console.log();
         }
         console.log(currentDate.toDateString(), isSpecialWeek(currentDate) || isSpecialDay(currentDate) ? "<---" : "");
         currentDate.setDate(currentDate.getDate() + 1); // Move to the next day
@@ -57,33 +59,67 @@ function isSpecialDay(today) {
 }
 
 
-function format(data) {
-    const txt = `# ${data.title} 
-### Picture of the Day - NASA - ${new Date().toLocaleDateString()}
-<img src="${data.url}" alt="nasa picture of the day" width="300"/>`
-    fs.writeFileSync('README.md', txt)
+function updateNasaImg(data) {
+
+    const content = fs.readFileSync(F, 'utf8')
+    const split = content.split(SEPARATOR)
+
+
+    const nasa = `# ${data.title}\n### Picture of the Day - NASA - ${new Date().toLocaleDateString('en-GB')}\n<img src="${data.url}" alt="nasa picture of the day" width="300"/>`
+
+    const newContent = nasa + SEPARATOR + split[1];
+
+    fs.writeFileSync(F, newContent)
 
 }
 
+function updateStatTheme() {
 
-// Update the readme on special days
-function main() {
-    const today = new Date();
+    const themes = ['dark', 'radical', 'merko', 'gruvbox', 'tokyonight', 'onedark', 'cobalt', 'synthwave', 'highcontrast', 'dracula'];
 
-    if (!isSpecialDay(today) && !isSpecialWeek(today)) {
-        return console.log('not a special day')
-    }
+    // get current theme
+    const content = fs.readFileSync(F, 'utf8')
+    const split = content.split("&theme=")[1] //[..., highcontrast" >]
+    const currentTheme = split.split('" ')[0] // highcontrast
 
+    // remove current theme from array (to avoid getting the same theme twice in a row and missing a day)
+    themes.splice(themes.indexOf(currentTheme), 1);
+    // get new theme
+    const theme = themes[Math.floor(Math.random() * themes.length)];
+
+    const newContent = content.replace(`&theme=${currentTheme}`, `&theme=${theme}`);
+
+    fs.writeFileSync(F, newContent)
+}
+
+
+function updatePictureOfTheDay() {
     axios.get(`https://api.nasa.gov/planetary/apod?api_key=${process.env.NASA_API_KEY}`)
-        .then(response => format(response.data))
+        .then(response => updateNasaImg(response.data))
         .catch(error => {
             console.log(error);
             //fallback
-            format({
+            updateNasaImg({
                 title: "Edwin Hubble Discovers the Universe",
                 url: "https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg"
             })
         });
+}
+
+function main() {
+    const today = new Date();
+
+    if (today.getHours() < 12) {
+        // update only image of the day every morning
+        return updatePictureOfTheDay();
+    }
+
+    if (!isSpecialDay(today) && !isSpecialWeek(today)) {
+        return console.log('not a special day');
+    }
+    // on special days afternoon update the stats (changing the theme) 
+    return updateStatTheme();
+
 };
 
 main()
