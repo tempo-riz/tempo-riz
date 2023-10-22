@@ -107,7 +107,7 @@ function updatePictureOfTheDay() {
 }
 
 function main() {
-    updateNasaImg();
+    updatePictureOfTheDay();
     updateStatTheme();
     // const today = new Date();
 
