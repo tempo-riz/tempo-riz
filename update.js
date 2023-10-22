@@ -107,18 +107,20 @@ function updatePictureOfTheDay() {
 }
 
 function main() {
-    const today = new Date();
+    updateNasaImg();
+    updateStatTheme();
+    // const today = new Date();
 
-    if (today.getHours() < 12) {
-        // update only image of the day every morning
-        return updatePictureOfTheDay();
-    }
+    // if (today.getHours() < 12) {
+    //     // update only image of the day every morning
+    //     return updatePictureOfTheDay();
+    // }
 
-    if (!isSpecialDay(today) && !isSpecialWeek(today)) {
-        return console.log('not a special day');
-    }
-    // on special days afternoon update the stats (changing the theme) 
-    return updateStatTheme();
+    // if (!isSpecialDay(today) && !isSpecialWeek(today)) {
+    //     return console.log('not a special day');
+    // }
+    // // on special days afternoon update the stats (changing the theme) 
+    // return updateStatTheme();
 
 };
 

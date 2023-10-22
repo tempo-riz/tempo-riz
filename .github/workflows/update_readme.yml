@@ -7,8 +7,8 @@ on:
   schedule:
     # every 5 minutes for testing
     # - cron: '*/5 * * * *'
-    # each day at 8:00 AND 20:00 (UTC)
-    - cron: '0 8,20 * * *'
+    # each day at 5:00  (UTC)
+    - cron: '0 5 * * *'
 
 jobs:
   update-readme:
