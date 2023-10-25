@@ -1,7 +1,7 @@
 name: Update README with NASA's picture of the day and stats
 
 on:
-  push:
+  # push:
   workflow_dispatch:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule
   schedule:

@@ -58,19 +58,35 @@ function isSpecialDay(today) {
 
 }
 
+function capitalizeFirst(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function createVideoEmbed(url) {
+    // url: "https://www.youtube.com/embed/J3_88eyN44w?rel=0"
+    const videoId = url.split('embed/')[1].split('?')[0];
+
+    return `[![watch on youtube](https://img.youtube.com/vi/${videoId}/mqdefault.jpg)](${url})`
+}
 
 function updateNasaImg(data) {
 
     const content = fs.readFileSync(F, 'utf8')
     const split = content.split(SEPARATOR)
 
+    let media;
 
-    const nasa = `# ${data.title}\n### Picture of the Day - NASA - ${new Date().toLocaleDateString('en-GB')}\n<img src="${data.url}" alt="nasa picture of the day" width="300"/>`
+    if (data.media_type == 'video') {
+        media = createVideoEmbed(data.url)
+    } else {
+        media = `<img src="${data.url}" alt="nasa picture of the day" width="300"/>`
+    }
 
-    const newContent = nasa + SEPARATOR + split[1];
+    const title = `# ${data.title}\n### ${capitalizeFirst(data.media_type)} of the Day - NASA - ${new Date().toLocaleDateString('en-GB')}\n`
+
+    const newContent = title + media + SEPARATOR + split[1];
 
     fs.writeFileSync(F, newContent)
-
 }
 
 function updateStatTheme() {
