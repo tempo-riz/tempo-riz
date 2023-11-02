@@ -1,6 +1,6 @@
-# Annular Solar Eclipse over Utah
-### Image of the Day - NASA - 01/11/2023
-<img src="https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# The Fornax Cluster of Galaxies
+### Image of the Day - NASA - 02/11/2023
+<img src="https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
 
 
 
