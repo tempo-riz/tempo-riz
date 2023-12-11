@@ -1,6 +1,6 @@
-# Big Dipper over Pyramid Mountain
-### Image of the Day - NASA - 10/12/2023
-<img src="https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Solar Minimum versus Solar Maximum
+### Video of the Day - NASA - 11/12/2023
+[![watch on youtube](https://img.youtube.com/vi/JqH0diwqcUM/mqdefault.jpg)](https://www.youtube.com/embed/JqH0diwqcUM?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
