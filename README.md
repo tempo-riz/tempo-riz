@@ -1,6 +1,6 @@
-# A December Summer Night
-### Image of the Day - NASA - 23/12/2023
-<img src="https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# NGC 2440: Cocoon of a New White Dwarf
+### Image of the Day - NASA - 24/12/2023
+<img src="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
 
 
 
