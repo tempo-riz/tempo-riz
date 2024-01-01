@@ -1,6 +1,6 @@
-# Illustris: A Simulation of the Universe
-### Video of the Day - NASA - 31/12/2023
-[![watch on youtube](https://img.youtube.com/vi/QSivvdIyeG4/mqdefault.jpg)](https://www.youtube.com/embed/QSivvdIyeG4?si=CNXSnbIN_HXYZG0e?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# NGC 1232: A Grand Design Spiral Galaxy
+### Image of the Day - NASA - 01/01/2024
+<img src="https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
 
 
 
