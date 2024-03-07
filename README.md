@@ -1,6 +1,6 @@
-# M102: Edge-on Disk Galaxy
-### Image of the Day - NASA - 06/03/2024
-<img src="https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# The Crew-8 Nebula
+### Image of the Day - NASA - 07/03/2024
+<img src="https://apod.nasa.gov/apod/image/2403/Crew-8image0_1024.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
 
 
 
