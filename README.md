@@ -1,6 +1,6 @@
-# A Galaxy-Shaped Rocket Exhaust Spiral
-### Image of the Day - NASA - 12/03/2024
-<img src="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# The Seagull Nebula
+### Image of the Day - NASA - 13/03/2024
+<img src="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
 
 
 
