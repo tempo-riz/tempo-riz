@@ -1,6 +1,6 @@
-# ELT and the Milky Way
-### Image of the Day - NASA - 16/03/2024
-<img src="https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# NGC 7714: Starburst after Galaxy Collision
+### Image of the Day - NASA - 17/03/2024
+<img src="https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
 
 
 
