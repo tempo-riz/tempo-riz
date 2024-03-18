@@ -1,6 +1,6 @@
-# NGC 7714: Starburst after Galaxy Collision
-### Image of the Day - NASA - 17/03/2024
-<img src="https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Comet Pons-Brooks' Swirling Coma
+### Image of the Day - NASA - 18/03/2024
+<img src="https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
 
 
 
