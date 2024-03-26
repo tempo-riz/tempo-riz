@@ -1,6 +1,6 @@
-# Sonified: The Jellyfish Nebula Supernova Remnant
-### Video of the Day - NASA - 25/03/2024
-[![watch on youtube](https://img.youtube.com/vi/NqBfQeJqkfU/mqdefault.jpg)](https://youtube.com/embed/NqBfQeJqkfU?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Comet Pons-Brooks' Ion Tail
+### Image of the Day - NASA - 26/03/2024
+<img src="https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
 
 
 
