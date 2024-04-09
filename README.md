@@ -1,6 +1,6 @@
-# The Changing Ion Tail of Comet Pons-Brooks
-### Image of the Day - NASA - 08/04/2024
-<img src="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Moon's Shadow over Lake Magog
+### Image of the Day - NASA - 09/04/2024
+<img src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
