@@ -1,6 +1,6 @@
-# M100: A Grand Design Spiral Galaxy
-### Image of the Day - NASA - 02/05/2024
-<img src="https://apod.nasa.gov/apod/image/2405/M100_DrewEvans1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Temperatures on Exoplanet WASP-43b
+### Image of the Day - NASA - 03/05/2024
+<img src="https://apod.nasa.gov/apod/image/2405/STScI-WASP43b_temperature.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
 
 
 
