@@ -1,6 +1,6 @@
-# Visualization: A Black Hole Accretion Disk
-### Video of the Day - NASA - 08/05/2024
-[![watch on youtube](https://img.youtube.com/vi/l36UkYtq6m0/mqdefault.jpg)](https://www.youtube.com/embed/l36UkYtq6m0?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# The Galaxy, the Jet, and a Famous Black Hole
+### Image of the Day - NASA - 09/05/2024
+<img src="https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
