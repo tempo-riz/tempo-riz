@@ -1,6 +1,6 @@
-# Simulation: Two Black Holes Merge
-### Video of the Day - NASA - 10/05/2024
-[![watch on youtube](https://img.youtube.com/vi/I_88S8DWbcU/mqdefault.jpg)](https://www.youtube.com/embed/I_88S8DWbcU?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# AR 3664: Giant Sunspot Group
+### Image of the Day - NASA - 11/05/2024
+<img src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
 
 
 
