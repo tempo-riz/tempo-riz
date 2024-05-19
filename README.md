@@ -1,6 +1,6 @@
-# North Celestial Aurora
-### Image of the Day - NASA - 18/05/2024
-<img src="https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Jupiter Diving
+### Video of the Day - NASA - 19/05/2024
+[![watch on youtube](https://img.youtube.com/vi/uj3Lq7Gu94Y/mqdefault.jpg)](https://www.youtube.com/embed/uj3Lq7Gu94Y?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
 
 
 
