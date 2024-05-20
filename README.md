@@ -1,6 +1,6 @@
-# Jupiter Diving
-### Video of the Day - NASA - 19/05/2024
-[![watch on youtube](https://img.youtube.com/vi/uj3Lq7Gu94Y/mqdefault.jpg)](https://www.youtube.com/embed/uj3Lq7Gu94Y?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Aurora Dome Sky
+### Image of the Day - NASA - 20/05/2024
+<img src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
