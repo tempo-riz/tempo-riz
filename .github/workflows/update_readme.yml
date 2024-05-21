@@ -8,7 +8,7 @@ on:
     # every 5 minutes for testing
     # - cron: '*/5 * * * *'
     # each day at 5:00  (UTC)
-    - cron: '0 5 * * *'
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
@@ -31,18 +31,18 @@ jobs:
       - name: Update README.md file
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
-        run: node update.js 
+        run:
+          node update.js
           # > README.md
 
-      - name: Commit and push if changed
+      - name: Commit and push
         # https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
-            git diff
-            git config --global user.email "tempo2riz@gmail.com"
-            git config --global user.name "tempo-riz"
-            git commit -am "readme updated by workflow" || exit 0
-            git push
-
-      
+          git diff
+          git config --global user.email "tempo2riz@gmail.com"
+          git config --global user.name "tempo-riz"
+          echo " " >> README.md
+          git commit -am "readme updated by workflow" || exit 0
+          git push
