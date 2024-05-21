@@ -58,8 +58,9 @@ function isSpecialDay(today) {
 
 }
 
-function capitalizeFirst(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+function capitalizeFirst(str) {
+    if (str.length == 0) return str;
+    return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
 function createVideoEmbed(url) {
@@ -138,6 +139,6 @@ function main() {
     // // on special days afternoon update the stats (changing the theme) 
     // return updateStatTheme();
 
-};
+}
 
 main()
