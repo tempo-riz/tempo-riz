@@ -1,10 +1,11 @@
-# Rotating Moon from LRO
-### Video of the Day - NASA - 02/06/2024
-[![watch on youtube](https://img.youtube.com/vi/sNUNB6CMnE8/mqdefault.jpg)](https://www.youtube.com/embed/sNUNB6CMnE8?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# NGC 2403 in Camelopardalis
+### Image of the Day - NASA - 03/06/2024
+<img src="https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
   
+ 
  
  
  
