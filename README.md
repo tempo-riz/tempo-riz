@@ -1,10 +1,11 @@
-# JADES-GS-z14-0: A New Farthest Object
-### Image of the Day - NASA - 24/06/2024
-<img src="https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# The Dark Doodad Nebula
+### Image of the Day - NASA - 25/06/2024
+<img src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
 
 
 
   
+ 
  
  
  
