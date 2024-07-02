@@ -1,10 +1,11 @@
-# Time Spiral
-### Image of the Day - NASA - 01/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# NGC 602: Oyster Star Cluster
+### Image of the Day - NASA - 02/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
 
 
 
   
+ 
  
  
  
