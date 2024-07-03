@@ -1,10 +1,11 @@
-# NGC 602: Oyster Star Cluster
-### Image of the Day - NASA - 02/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# M83: Star Streams and a Thousand Rubies
+### Image of the Day - NASA - 03/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
 
 
 
   
+ 
  
  
  
