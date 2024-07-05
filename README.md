@@ -1,10 +1,11 @@
-# A Beautiful Trifid
-### Image of the Day - NASA - 04/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Mount Etna Milky Way
+### Image of the Day - NASA - 05/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
 
 
 
   
+ 
  
  
  
