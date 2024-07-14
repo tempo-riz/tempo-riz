@@ -1,10 +1,11 @@
-# Solar System Family Portrait
-### Image of the Day - NASA - 13/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Meteor Misses Galaxy
+### Image of the Day - NASA - 14/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
 
 
 
   
+ 
  
  
  
