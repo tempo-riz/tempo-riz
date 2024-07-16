@@ -1,10 +1,11 @@
-# The Tadpole Galaxy from Hubble
-### Image of the Day - NASA - 15/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Cometary Globules
+### Image of the Day - NASA - 16/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
 
 
 
   
+ 
  
  
  
