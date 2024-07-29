@@ -1,10 +1,11 @@
-# Sun Dance
-### Video of the Day - NASA - 28/07/2024
-[![watch on youtube](https://img.youtube.com/vi/hQFEHH5E69s/mqdefault.jpg)](https://www.youtube.com/embed/hQFEHH5E69s?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Milky Way over Uluru
+### Image of the Day - NASA - 29/07/2024
+<img src="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
 
 
 
   
+ 
  
  
  
