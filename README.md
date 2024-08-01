@@ -1,10 +1,11 @@
-# Leopard Spots on Martian Rocks
-### Image of the Day - NASA - 31/07/2024
-<img src="https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Comet Olbers over Kunetice Castle
+### Image of the Day - NASA - 01/08/2024
+<img src="https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
 
 
 
   
+ 
  
  
  
