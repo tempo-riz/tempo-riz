@@ -1,10 +1,11 @@
-# Mars Passing By
-### Image of the Day - NASA - 02/08/2024
-<img src="https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Glory and Fog Bow
+### Image of the Day - NASA - 03/08/2024
+<img src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
 
 
 
   
+ 
  
  
  
