@@ -1,10 +1,11 @@
-# Glory and Fog Bow
-### Image of the Day - NASA - 03/08/2024
-<img src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Gaia: Here Comes the Sun
+### Video of the Day - NASA - 04/08/2024
+[![watch on youtube](https://img.youtube.com/vi/XORui0wFKnE/mqdefault.jpg)](https://www.youtube.com/embed/XORui0wFKnE?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
 
 
 
   
+ 
  
  
  
