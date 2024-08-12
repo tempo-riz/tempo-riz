@@ -1,10 +1,11 @@
-# The Light, Dark, and Dusty Trifid
-### Image of the Day - NASA - 10/08/2024
-<img src="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Perseid Meteors over Stonehenge
+### Image of the Day - NASA - 12/08/2024
+<img src="https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
 
 
 
   
+ 
  
  
  
