@@ -34,6 +34,7 @@ jobs:
         run:
           node update.js
           # > README.md
+        continue-on-error: true
 
       - name: Commit and push
         # https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret

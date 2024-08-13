@@ -1,0 +1,1 @@
+git commit --allow-empty --date="2024-05-17T12:00:00" -m "Commit message"
