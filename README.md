@@ -1,6 +1,7 @@
-# Meteor Borealis
-### Image of the Day - NASA - 16/08/2024
-<img src="https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Sky Full of Arcs
+### Image of the Day - NASA - 17/08/2024
+<img src="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
