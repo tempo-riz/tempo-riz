@@ -1,6 +1,7 @@
-# The Mermaid Nebula Supernova Remnant
-### Image of the Day - NASA - 18/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# The Dark Seahorse of Cepheus
+### Image of the Day - NASA - 19/09/2024
+<img src="https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
