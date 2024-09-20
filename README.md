@@ -1,6 +1,7 @@
-# The Dark Seahorse of Cepheus
-### Image of the Day - NASA - 19/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# A Hazy Harvest Moon
+### Image of the Day - NASA - 20/09/2024
+<img src="https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
