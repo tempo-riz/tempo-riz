@@ -1,6 +1,7 @@
-# Chicagohenge: Equinox in an Aligned City
-### Image of the Day - NASA - 22/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Comet Tsuchinshan-ATLAS Approaches
+### Image of the Day - NASA - 23/09/2024
+<img src="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
