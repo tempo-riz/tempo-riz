@@ -1,6 +1,7 @@
-# Comet A3 Through an Australian Sunrise
-### Image of the Day - NASA - 25/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# The Great Globular Cluster in Hercules
+### Image of the Day - NASA - 26/09/2024
+<img src="https://apod.nasa.gov/apod/image/2409/M13IFN_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
