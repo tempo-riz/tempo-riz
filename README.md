@@ -1,6 +1,7 @@
-# Rocket Eclipse at Sunset
-### Image of the Day - NASA - 28/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Seven Dusty Sisters
+### Image of the Day - NASA - 29/09/2024
+<img src="https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
