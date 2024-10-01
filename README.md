@@ -1,6 +1,7 @@
-# Comet Tsuchinshan-ATLAS over Mexico
-### Image of the Day - NASA - 30/09/2024
-<img src="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Porphyrion: The Longest Known Black Hole Jets
+### Video of the Day - NASA - 01/10/2024
+[![watch on youtube](https://img.youtube.com/vi/ExGvwNuKyMc/mqdefault.jpg)](https://www.youtube.com/embed/ExGvwNuKyMc?ref=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
