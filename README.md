@@ -1,6 +1,7 @@
-# Porphyrion: The Longest Known Black Hole Jets
-### Video of the Day - NASA - 01/10/2024
-[![watch on youtube](https://img.youtube.com/vi/ExGvwNuKyMc/mqdefault.jpg)](https://www.youtube.com/embed/ExGvwNuKyMc?ref=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# The Large Magellanic Cloud Galaxy
+### Image of the Day - NASA - 02/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
