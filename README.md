@@ -1,6 +1,7 @@
-# The Magnificent Tail of Comet McNaught
-### Image of the Day - NASA - 06/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# The Long Tails Comet Tsuchinshan-ATLAS
+### Image of the Day - NASA - 07/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
