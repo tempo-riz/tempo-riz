@@ -1,6 +1,7 @@
-# The Long Tails Comet Tsuchinshan-ATLAS
-### Image of the Day - NASA - 07/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Annular Eclipse over Patagonia
+### Image of the Day - NASA - 08/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
