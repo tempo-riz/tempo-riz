@@ -1,6 +1,7 @@
-# Annular Eclipse over Patagonia
-### Image of the Day - NASA - 08/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# M106: A Spiral Galaxy with a Strange Center
+### Image of the Day - NASA - 09/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
