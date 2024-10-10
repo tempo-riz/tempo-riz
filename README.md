@@ -1,6 +1,7 @@
-# M106: A Spiral Galaxy with a Strange Center
-### Image of the Day - NASA - 09/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Five Bright Comets from SOHO
+### Image of the Day - NASA - 10/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
