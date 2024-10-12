@@ -1,6 +1,7 @@
-# Ring of Fire over Easter Island
-### Image of the Day - NASA - 11/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Northern Lights, West Virginia
+### Image of the Day - NASA - 12/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
