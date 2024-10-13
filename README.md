@@ -1,6 +1,7 @@
-# Northern Lights, West Virginia
-### Image of the Day - NASA - 12/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Aurora Timelapse Over Italian Alps
+### Video of the Day - NASA - 13/10/2024
+[![watch on youtube](https://img.youtube.com/vi/uCbpHh_rTgc/mqdefault.jpg)](https://www.youtube.com/embed/uCbpHh_rTgc?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
