@@ -1,6 +1,7 @@
-# Most of Comet Tsuchinshan-ATLAS
-### Image of the Day - NASA - 18/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Comet Tsuchinshan-ATLAS Flys Away
+### Image of the Day - NASA - 19/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
