@@ -1,6 +1,7 @@
-# Comet Tsuchinshan-ATLAS Flys Away
-### Image of the Day - NASA - 19/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Dark Matter in a Simulated Universe
+### Image of the Day - NASA - 20/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
