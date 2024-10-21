@@ -1,6 +1,7 @@
-# Dark Matter in a Simulated Universe
-### Image of the Day - NASA - 20/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Comet Tsuchinshan-ATLAS over California
+### Image of the Day - NASA - 21/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
