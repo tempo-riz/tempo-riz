@@ -1,6 +1,7 @@
-# Comet Tsuchinshan-ATLAS over California
-### Image of the Day - NASA - 21/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# M16: Pillars of Star Creation
+### Image of the Day - NASA - 22/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
