@@ -1,6 +1,7 @@
-# Caught
-### Other of the Day - NASA - 23/10/2024
-<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# NGC 7293: The Helix Nebula
+### Image of the Day - NASA - 24/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
