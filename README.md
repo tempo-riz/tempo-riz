@@ -1,6 +1,7 @@
-# Globular Star Cluster NGC 6752
-### Image of the Day - NASA - 25/10/2024
-<img src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Phantoms in Cassiopeia
+### Image of the Day - NASA - 26/10/2024
+<img src="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
