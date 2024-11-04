@@ -1,6 +1,7 @@
-# Jupiter Abyss
-### Image of the Day - NASA - 03/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/JupiterAbyss_JunoEichstadt_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# M42: The Great Nebula in Orion
+### Image of the Day - NASA - 04/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
