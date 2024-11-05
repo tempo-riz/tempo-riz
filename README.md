@@ -1,6 +1,7 @@
-# M42: The Great Nebula in Orion
-### Image of the Day - NASA - 04/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Milky Way over Easter Island
+### Image of the Day - NASA - 05/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
