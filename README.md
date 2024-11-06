@@ -1,6 +1,7 @@
-# Milky Way over Easter Island
-### Image of the Day - NASA - 05/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Comet Tsuchinshan-Atlas over the Dolomites
+### Image of the Day - NASA - 06/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
