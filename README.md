@@ -1,6 +1,7 @@
-# Comet Tsuchinshan-Atlas over the Dolomites
-### Image of the Day - NASA - 06/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Shell Galaxies in Pisces
+### Image of the Day - NASA - 07/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
