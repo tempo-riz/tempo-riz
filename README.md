@@ -1,6 +1,7 @@
-# The Unusual Tails of Comet Tsuchinshan-Atlas
-### Image of the Day - NASA - 11/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# NGC 6888: The Crescent Nebula
+### Image of the Day - NASA - 12/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
