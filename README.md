@@ -1,6 +1,7 @@
-# NGC 6888: The Crescent Nebula
-### Image of the Day - NASA - 12/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Barred Spiral Galaxy NGC 1365 from Webb
+### Image of the Day - NASA - 13/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
