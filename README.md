@@ -1,6 +1,7 @@
-# Pluto at Night
-### Image of the Day - NASA - 16/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# LDN 1471: A Windblown Star Cavity
+### Image of the Day - NASA - 17/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
