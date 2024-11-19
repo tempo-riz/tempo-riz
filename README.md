@@ -1,6 +1,7 @@
-# Stars and Dust in the Pacman Nebula
-### Image of the Day - NASA - 18/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Undulatus Clouds over Las Campanas Observatory
+### Image of the Day - NASA - 19/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
