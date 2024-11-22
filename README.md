@@ -1,6 +1,7 @@
-# The Elephant's Trunk in Cepheus
-### Image of the Day - NASA - 21/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# The Medusa Nebula
+### Image of the Day - NASA - 22/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
