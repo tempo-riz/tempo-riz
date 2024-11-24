@@ -1,6 +1,7 @@
-# Interplanetary Earth
-### Image of the Day - NASA - 23/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Journey to the Center of the Galaxy
+### Video of the Day - NASA - 24/11/2024
+[![watch on youtube](https://img.youtube.com/vi/FNHexFdacK0/mqdefault.jpg)](https://www.youtube.com/embed/FNHexFdacK0?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
