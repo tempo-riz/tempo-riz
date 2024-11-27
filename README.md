@@ -1,6 +1,7 @@
-# The Sombrero Galaxy from Webb and Hubble
-### Image of the Day - NASA - 26/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# The Meteor and the Comet
+### Image of the Day - NASA - 27/11/2024
+<img src="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
