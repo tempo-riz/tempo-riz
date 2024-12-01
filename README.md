@@ -1,6 +1,7 @@
-# Winter and Summer on a Little Planet
-### Image of the Day - NASA - 30/11/2024
-<img src="https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Cosmic Latte: The Average Color of the Universe
+### Image of the Day - NASA - 01/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
