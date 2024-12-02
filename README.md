@@ -1,6 +1,7 @@
-# Cosmic Latte: The Average Color of the Universe
-### Image of the Day - NASA - 01/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# NGC 300: A Galaxy of Stars
+### Image of the Day - NASA - 02/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
