@@ -1,6 +1,7 @@
-# NGC 300: A Galaxy of Stars
-### Image of the Day - NASA - 02/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Ice Clouds over a Red Planet
+### Image of the Day - NASA - 03/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
