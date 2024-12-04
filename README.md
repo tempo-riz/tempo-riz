@@ -1,6 +1,7 @@
-# Ice Clouds over a Red Planet
-### Image of the Day - NASA - 03/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Driveway Analemma
+### Video of the Day - NASA - 04/12/2024
+[![watch on youtube](https://img.youtube.com/vi/7QB_MOemCqs/mqdefault.jpg)](https://www.youtube.com/embed/7QB_MOemCqs?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
