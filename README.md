@@ -1,6 +1,7 @@
-# Driveway Analemma
-### Video of the Day - NASA - 04/12/2024
-[![watch on youtube](https://img.youtube.com/vi/7QB_MOemCqs/mqdefault.jpg)](https://www.youtube.com/embed/7QB_MOemCqs?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Stereo Jupiter near Opposition
+### Image of the Day - NASA - 05/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
