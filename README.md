@@ -1,6 +1,7 @@
-# Rocket Engine Fireplace
-### Image of the Day - NASA - 07/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Aurora around Saturn's North Pole
+### Image of the Day - NASA - 08/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
