@@ -1,6 +1,7 @@
-# Aurora around Saturn's North Pole
-### Image of the Day - NASA - 08/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Pleiades: The Seven Sisters Star Cluster
+### Image of the Day - NASA - 09/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
