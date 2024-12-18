@@ -1,6 +1,7 @@
-# Near to the Heart Nebula
-### Image of the Day - NASA - 17/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# NGC 660: Polar Ring Galaxy
+### Image of the Day - NASA - 18/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
