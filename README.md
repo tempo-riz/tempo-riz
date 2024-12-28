@@ -1,6 +1,7 @@
-# Planet Earth at Twilight
-### Image of the Day - NASA - 27/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# A December Winter Night
+### Image of the Day - NASA - 28/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/bubak-poland1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
