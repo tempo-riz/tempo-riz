@@ -1,6 +1,7 @@
-# M27: The Dumbbell Nebula
-### Image of the Day - NASA - 30/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/M27_Stobie_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# The Twisted Disk of NGC 4753
+### Image of the Day - NASA - 31/12/2024
+<img src="https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
