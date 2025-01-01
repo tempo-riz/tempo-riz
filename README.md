@@ -1,6 +1,7 @@
-# The Twisted Disk of NGC 4753
-### Image of the Day - NASA - 31/12/2024
-<img src="https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Alpha Centauri: The Closest Star System
+### Image of the Day - NASA - 01/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
