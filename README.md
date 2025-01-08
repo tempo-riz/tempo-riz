@@ -1,6 +1,7 @@
-# A New Year's Aurora and SAR Arc
-### Image of the Day - NASA - 07/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Supernova Remnants Big and Small
+### Image of the Day - NASA - 08/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
