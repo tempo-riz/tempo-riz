@@ -1,6 +1,7 @@
-# Supernova Remnants Big and Small
-### Image of the Day - NASA - 08/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Peculiar Galaxies of Arp 273
+### Image of the Day - NASA - 09/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/Image171a.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
