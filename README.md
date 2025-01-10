@@ -1,6 +1,7 @@
-# Peculiar Galaxies of Arp 273
-### Image of the Day - NASA - 09/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/Image171a.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Young Stars, Dark Nebulae
+### Image of the Day - NASA - 10/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
