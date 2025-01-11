@@ -1,6 +1,7 @@
-# Young Stars, Dark Nebulae
-### Image of the Day - NASA - 10/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# An Evening Sky Full of Planets
+### Image of the Day - NASA - 11/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
