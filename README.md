@@ -1,6 +1,7 @@
-# An Evening Sky Full of Planets
-### Image of the Day - NASA - 11/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Mimas: Small Moon with a Big Crater
+### Image of the Day - NASA - 12/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
