@@ -1,6 +1,7 @@
-# North Star: Polaris and Surrounding Dust
-### Image of the Day - NASA - 14/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Wolf Moon Engulfs Mars
+### Image of the Day - NASA - 15/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
