@@ -1,6 +1,7 @@
-# Supernova Remnant Cassiopeia A
-### Image of the Day - NASA - 17/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/CasA_nircam_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Full Moon, Full Mars
+### Image of the Day - NASA - 18/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
