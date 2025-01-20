@@ -1,6 +1,7 @@
-# Titan Touchdown: Huygens Descent Movie
-### Video of the Day - NASA - 19/01/2025
-[![watch on youtube](https://img.youtube.com/vi/msiLWxDayuA/mqdefault.jpg)](https://www.youtube.com/embed/msiLWxDayuA?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Comet ATLAS Rounds the Sun
+### Image of the Day - NASA - 20/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
