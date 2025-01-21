@@ -1,6 +1,7 @@
-# Comet ATLAS Rounds the Sun
-### Image of the Day - NASA - 20/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Comet ATLAS over Brasília
+### Image of the Day - NASA - 21/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
