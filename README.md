@@ -1,6 +1,7 @@
-# Comet G3 ATLAS: a Tail and a Telescope
-### Image of the Day - NASA - 24/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Stardust in the Perseus Molecular Cloud
+### Image of the Day - NASA - 25/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
