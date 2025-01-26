@@ -1,6 +1,7 @@
-# Stardust in the Perseus Molecular Cloud
-### Image of the Day - NASA - 25/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# The Many Tails of Comet G3 ATLAS
+### Image of the Day - NASA - 26/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
