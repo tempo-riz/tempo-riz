@@ -1,6 +1,7 @@
-# Dust Shells around WR 140 from Webb
-### Image of the Day - NASA - 29/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Hydrogen Clouds of M33
+### Image of the Day - NASA - 30/01/2025
+<img src="https://apod.nasa.gov/apod/image/2501/M33_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
