@@ -1,6 +1,7 @@
-# The Variable Nebula NGC 2261
-### Image of the Day - NASA - 31/01/2025
-<img src="https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Nacreous Clouds over Sweden
+### Image of the Day - NASA - 01/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
