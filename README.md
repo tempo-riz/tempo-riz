@@ -1,6 +1,7 @@
-# Comet G3 ATLAS Disintegrates
-### Image of the Day - NASA - 02/02/2025
-<img src="https://apod.nasa.gov/apod/image/2502/AtlasDisintegrating_Majzik_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Wolf-Rayet Star 124: Stellar Wind Machine
+### Image of the Day - NASA - 03/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
