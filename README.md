@@ -1,7 +1,7 @@
-# Comet G3 ATLAS Setting over a Chilean Hill
-
-### Video of the Day - NASA - 05/02/2025
-[![watch on youtube](https://img.youtube.com/vi/nt5j0NiVesQ/mqdefault.jpg)](https://www.youtube.com/embed/nt5j0NiVesQ)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# IC 2574: Coddington's Nebula
+### Image of the Day - NASA - 06/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
