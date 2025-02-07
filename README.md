@@ -1,6 +1,7 @@
-# IC 2574: Coddington's Nebula
-### Image of the Day - NASA - 06/02/2025
-<img src="https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# LEDA 1313424: The Bullseye Galaxy
+### Image of the Day - NASA - 07/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
