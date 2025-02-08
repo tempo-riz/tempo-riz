@@ -1,6 +1,7 @@
-# LEDA 1313424: The Bullseye Galaxy
-### Image of the Day - NASA - 07/02/2025
-<img src="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# A Conjunction of Crescents
+### Image of the Day - NASA - 08/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/IMG_3775M_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
