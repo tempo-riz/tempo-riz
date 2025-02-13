@@ -1,6 +1,7 @@
-# Asteroid Bennu Holds the Building Blocks of Life
-### Video of the Day - NASA - 12/02/2025
-[![watch on youtube](https://img.youtube.com/vi/ukCSRYcjSQw/mqdefault.jpg)](https://www.youtube.com/embed/ukCSRYcjSQw?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Reflections on VdB 31
+### Image of the Day - NASA - 13/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
