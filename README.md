@@ -1,6 +1,7 @@
-# Perijove 11: Passing Jupiter
-### Video of the Day - NASA - 16/02/2025
-[![watch on youtube](https://img.youtube.com/vi/OfM7VlonD5c/mqdefault.jpg)](https://www.youtube.com/embed/OfM7VlonD5c?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# SpaceX Rocket Launch Plume over California
+### Image of the Day - NASA - 17/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
