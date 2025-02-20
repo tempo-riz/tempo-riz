@@ -1,6 +1,7 @@
-# HH 30: A Star System with Planets Now Forming
-### Image of the Day - NASA - 19/02/2025
-<img src="https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Messier 87
+### Image of the Day - NASA - 20/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
