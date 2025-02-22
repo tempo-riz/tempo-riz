@@ -1,6 +1,7 @@
-# Hubble's Andromeda Galaxy Mosaic
-### Image of the Day - NASA - 21/02/2025
-<img src="https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaicCrop.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Rima Hyginus
+### Image of the Day - NASA - 22/02/2025
+<img src="https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1024px.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
