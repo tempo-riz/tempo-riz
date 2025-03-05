@@ -1,6 +1,7 @@
-# A Quadruple Alignment over Italy
-### Image of the Day - NASA - 04/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Seven Sisters versus California
+### Image of the Day - NASA - 05/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
