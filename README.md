@@ -1,6 +1,7 @@
-# Seven Sisters versus California
-### Image of the Day - NASA - 05/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Starburst Galaxy Messier 94
+### Image of the Day - NASA - 06/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/M94_hst1542a.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
