@@ -1,6 +1,7 @@
-# NGC 1499: The California Nebula
-### Image of the Day - NASA - 10/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/California_Mendez_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# NGC 1672: Barred Spiral Galaxy from Hubble
+### Image of the Day - NASA - 11/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
