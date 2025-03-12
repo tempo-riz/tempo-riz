@@ -1,6 +1,7 @@
-# NGC 1672: Barred Spiral Galaxy from Hubble
-### Image of the Day - NASA - 11/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# NGC 772: The Fiddlehead Galaxy
+### Image of the Day - NASA - 12/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
