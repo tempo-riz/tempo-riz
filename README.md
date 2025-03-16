@@ -1,6 +1,7 @@
-# Tololo Totality
-### Image of the Day - NASA - 15/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/2025_03_14_ZM_Tololo_Totalita_Fin_1024py.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Venus and the Triply Ultraviolet Sun
+### Image of the Day - NASA - 16/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
