@@ -1,6 +1,7 @@
-# Blue Ghost's Diamond Ring
-### Image of the Day - NASA - 19/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-crop1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# The Solar Eclipse Analemma Project
+### Image of the Day - NASA - 20/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
