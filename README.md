@@ -1,6 +1,7 @@
-# SuperCam Target on Ma'az
-### Image of the Day - NASA - 22/03/2025
-<img src="https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Ancient Ogunquit Beach on Mars
+### Image of the Day - NASA - 23/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
