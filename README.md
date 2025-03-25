@@ -1,6 +1,7 @@
-# A Total Lunar Eclipse Over Uruguay
-### Other of the Day - NASA - 24/03/2025
-<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# A Blue Banded Blood Moon
+### Image of the Day - NASA - 25/03/2025
+<img src="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
