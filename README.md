@@ -1,6 +1,7 @@
-# A Partial Solar Eclipse over Iceland
-### Image of the Day - NASA - 30/03/2025
-<img src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Parker: The Solar System from Near the Sun
+### Video of the Day - NASA - 31/03/2025
+[![watch on youtube](https://img.youtube.com/vi/YW1yQt3K_YY/mqdefault.jpg)](https://www.youtube.com/embed/YW1yQt3K_YY)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
