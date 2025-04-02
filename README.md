@@ -1,6 +1,7 @@
-# A Double Sunrise from a Partial Eclipse
-### Video of the Day - NASA - 01/04/2025
-[![watch on youtube](https://img.youtube.com/vi/oTkbHJsqCZM/mqdefault.jpg)](https://www.youtube.com/embed/oTkbHJsqCZM?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Jupiter and Ring in Infrared from Webb
+### Image of the Day - NASA - 02/04/2025
+<img src="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
