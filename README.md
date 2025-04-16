@@ -1,6 +1,7 @@
-# Planetary Nebula NGC 1514 from Webb
-### Image of the Day - NASA - 15/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Halo of the Cat's Eye
+### Image of the Day - NASA - 16/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
