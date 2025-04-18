@@ -1,6 +1,7 @@
-# Virgo Cluster Galaxies
-### Image of the Day - NASA - 17/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Comet C/2025 F2 SWAN
+### Image of the Day - NASA - 18/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
