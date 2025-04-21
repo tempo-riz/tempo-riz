@@ -1,6 +1,7 @@
-# The Orion Nebula in Visible and Infrared
-### Image of the Day - NASA - 20/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Galaxy Lenses Galaxy from Webb
+### Image of the Day - NASA - 21/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
