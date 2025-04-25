@@ -1,6 +1,7 @@
-# NGC 6164: A Dragon's Egg
-### Image of the Day - NASA - 24/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Asteroid Donaldjohanson
+### Image of the Day - NASA - 25/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
