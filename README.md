@@ -1,6 +1,7 @@
-# Asteroid Donaldjohanson
-### Image of the Day - NASA - 25/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Barred Spiral Galaxy NGC 5335
+### Image of the Day - NASA - 26/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
