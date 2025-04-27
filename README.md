@@ -1,6 +1,7 @@
-# Barred Spiral Galaxy NGC 5335
-### Image of the Day - NASA - 26/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# IC 418: The Spirograph Nebula
+### Image of the Day - NASA - 27/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
