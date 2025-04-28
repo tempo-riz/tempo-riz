@@ -1,6 +1,7 @@
-# IC 418: The Spirograph Nebula
-### Image of the Day - NASA - 27/04/2025
-<img src="https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Gum 37 and the Southern Tadpoles
+### Image of the Day - NASA - 28/04/2025
+<img src="https://apod.nasa.gov/apod/image/2504/Gum37Hoo_Bozon_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
