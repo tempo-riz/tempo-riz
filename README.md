@@ -1,6 +1,7 @@
-# The Doubly Warped World of Binary Black Holes
-### Video of the Day - NASA - 06/05/2025
-[![watch on youtube](https://img.youtube.com/vi/rQcKIN9vj3U/mqdefault.jpg)](https://www.youtube.com/embed/rQcKIN9vj3U?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Galaxy Wars: M81 versus M82
+### Image of the Day - NASA - 07/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
