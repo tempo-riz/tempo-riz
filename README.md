@@ -1,6 +1,7 @@
-# Galaxy Wars: M81 versus M82
-### Image of the Day - NASA - 07/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# M1: The Incredible Expanding Crab
+### Image of the Day - NASA - 08/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
