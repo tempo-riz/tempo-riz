@@ -1,6 +1,7 @@
-# IXPE Explores a Black Hole Jet
-### Image of the Day - NASA - 09/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Yogi and Friends in 3D
+### Image of the Day - NASA - 10/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
