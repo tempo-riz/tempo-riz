@@ -1,6 +1,7 @@
-# The Surface of Venus from Venera 14
-### Image of the Day - NASA - 11/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Gaia Reconstructs a Side View of our Galaxy
+### Image of the Day - NASA - 12/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
