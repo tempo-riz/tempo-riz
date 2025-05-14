@@ -1,6 +1,7 @@
-# Gaia Reconstructs a Top View of our Galaxy
-### Image of the Day - NASA - 13/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# NGC 1360: The Robin's Egg Nebula
+### Image of the Day - NASA - 14/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
