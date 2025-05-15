@@ -1,6 +1,7 @@
-# NGC 1360: The Robin's Egg Nebula
-### Image of the Day - NASA - 14/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# A Plutonian Landscape
+### Image of the Day - NASA - 15/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
