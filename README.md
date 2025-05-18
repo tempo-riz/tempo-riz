@@ -1,6 +1,7 @@
-# Ares 3 Landing Site: The Martian Revisited
-### Image of the Day - NASA - 17/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Pluto Flyover from New Horizons
+### Other of the Day - NASA - 18/05/2025
+<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
