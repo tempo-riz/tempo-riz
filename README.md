@@ -1,6 +1,7 @@
-# International Space Station Crosses the Sun
-### Image of the Day - NASA - 21/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Curly Spiral Galaxy M63
+### Image of the Day - NASA - 22/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
