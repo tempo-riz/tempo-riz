@@ -1,6 +1,7 @@
-# Deimos Before Sunrise
-### Image of the Day - NASA - 24/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Beneath Jupiter
+### Image of the Day - NASA - 25/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
