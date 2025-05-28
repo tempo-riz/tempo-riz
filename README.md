@@ -1,6 +1,7 @@
-# Zeta and Rho Ophiuchi with Milky Way
-### Image of the Day - NASA - 27/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Herbig-Haro 24
+### Image of the Day - NASA - 28/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
