@@ -1,6 +1,7 @@
-# Herbig-Haro 24
-### Image of the Day - NASA - 28/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Irregular Dwarf Galaxy Sextans A
+### Image of the Day - NASA - 29/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
