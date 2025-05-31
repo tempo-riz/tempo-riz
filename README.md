@@ -1,6 +1,7 @@
-# Mars in the Loop
-### Image of the Day - NASA - 30/05/2025
-<img src="https://apod.nasa.gov/apod/image/2505/Ma2024-5_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Afterimage Sunset
+### Image of the Day - NASA - 31/05/2025
+<img src="https://apod.nasa.gov/apod/image/2505/Afterimageorizontalcrop.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
