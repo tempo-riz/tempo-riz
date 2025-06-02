@@ -1,6 +1,7 @@
-# UGC 1810: Wildly Interacting Galaxy from Hubble
-### Image of the Day - NASA - 01/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Veil Nebula: Wisps of an Ancient Supernova
+### Image of the Day - NASA - 02/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
