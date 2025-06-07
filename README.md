@@ -1,6 +1,7 @@
-# NGC 6302: The Butterfly Nebula
-### Image of the Day - NASA - 06/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Perseverance Selfie with Ingenuity
+### Image of the Day - NASA - 07/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
