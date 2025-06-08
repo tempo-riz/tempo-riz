@@ -1,6 +1,7 @@
-# Perseverance Selfie with Ingenuity
-### Image of the Day - NASA - 07/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Facing NGC 3344
+### Image of the Day - NASA - 08/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
