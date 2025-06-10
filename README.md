@@ -1,6 +1,7 @@
-# Between Scylla and Charybdis: A Double Cosmic Discovery
-### Image of the Day - NASA - 09/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Enceladus in True Color
+### Image of the Day - NASA - 10/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
