@@ -1,6 +1,7 @@
-# Enceladus in True Color
-### Image of the Day - NASA - 10/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# 25 Brightest Stars in the Night Sky
+### Image of the Day - NASA - 11/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
