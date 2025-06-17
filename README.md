@@ -1,6 +1,7 @@
-# APOD is 30 Years Old Today
-### Image of the Day - NASA - 16/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Rosette Nebula Deep Field
+### Image of the Day - NASA - 17/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
