@@ -1,6 +1,7 @@
-# Space Station Silhouette on the Moon
-### Image of the Day - NASA - 18/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# NGC 3521: Galaxy in a Bubble
+### Image of the Day - NASA - 19/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
