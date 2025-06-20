@@ -1,6 +1,7 @@
-# NGC 3521: Galaxy in a Bubble
-### Image of the Day - NASA - 19/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Major Lunar Standstill 2024-2025
+### Image of the Day - NASA - 20/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
