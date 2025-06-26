@@ -1,6 +1,7 @@
-# Rubin's First Look: A Sagittarius Skyscape
-### Image of the Day - NASA - 25/06/2025
-<img src="https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# The Seagull Nebula
+### Image of the Day - NASA - 26/06/2025
+<img src="https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
