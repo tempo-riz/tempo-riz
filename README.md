@@ -1,6 +1,7 @@
-# NGC 6946 and NGC 6939
-### Image of the Day - NASA - 04/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Ou4: The Giant Squid Nebula
+### Image of the Day - NASA - 05/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
