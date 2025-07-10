@@ -1,6 +1,7 @@
-# A Beautiful Trifid
-### Image of the Day - NASA - 09/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Lynds Dark Nebula 1251
+### Image of the Day - NASA - 10/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
