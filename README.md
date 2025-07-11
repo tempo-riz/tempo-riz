@@ -1,6 +1,7 @@
-# Lynds Dark Nebula 1251
-### Image of the Day - NASA - 10/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# The Veins of Heaven
+### Image of the Day - NASA - 11/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
