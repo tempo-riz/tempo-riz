@@ -1,6 +1,7 @@
-# The Rosette Nebula from DECam
-### Image of the Day - NASA - 16/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# 3I/ATLAS
+### Image of the Day - NASA - 17/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i1056.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
