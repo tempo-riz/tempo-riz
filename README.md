@@ -1,6 +1,7 @@
-# Cat's Paw Nebula from Webb Space Telescope
-### Image of the Day - NASA - 21/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# A Double Detonation Supernova
+### Image of the Day - NASA - 22/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
