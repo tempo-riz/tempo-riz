@@ -1,6 +1,7 @@
-# A Double Detonation Supernova
-### Image of the Day - NASA - 22/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Fireball over Cape San Blas
+### Image of the Day - NASA - 23/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
