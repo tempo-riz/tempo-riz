@@ -1,6 +1,7 @@
-# Twelve Years of Kappa Cygnids
-### Image of the Day - NASA - 25/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Globular Cluster Omega Centauri
+### Image of the Day - NASA - 26/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
