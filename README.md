@@ -1,6 +1,7 @@
-# Lightning over the Volcano of Water
-### Image of the Day - NASA - 27/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Collision at Asteroid Dimorphos
+### Other of the Day - NASA - 28/07/2025
+<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
