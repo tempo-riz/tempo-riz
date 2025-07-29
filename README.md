@@ -1,6 +1,7 @@
-# Collision at Asteroid Dimorphos
-### Other of the Day - NASA - 28/07/2025
-<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# A Helix Nebula Deep Field
+### Image of the Day - NASA - 29/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
