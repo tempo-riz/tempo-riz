@@ -1,6 +1,7 @@
-# A Helix Nebula Deep Field
-### Image of the Day - NASA - 29/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Coronal Loops on the Sun
+### Image of the Day - NASA - 30/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
