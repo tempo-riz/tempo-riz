@@ -1,6 +1,7 @@
-# Coronal Loops on the Sun
-### Image of the Day - NASA - 30/07/2025
-<img src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Supernova 2025rbs in NGC 7331
+### Image of the Day - NASA - 31/07/2025
+<img src="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
