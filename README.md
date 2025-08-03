@@ -1,6 +1,7 @@
-# Fireflies, Meteors, and Milky Way
-### Image of the Day - NASA - 02/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Milky Way and Exploding Meteor
+### Image of the Day - NASA - 03/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
