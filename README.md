@@ -1,6 +1,7 @@
-# Milky Way and Exploding Meteor
-### Image of the Day - NASA - 03/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Blue Arcs Toward Andromeda
+### Image of the Day - NASA - 04/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
