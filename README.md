@@ -1,6 +1,7 @@
-# Blue Arcs Toward Andromeda
-### Image of the Day - NASA - 04/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# NGC 6072: A Complex Planetary Nebula from Webb
+### Image of the Day - NASA - 05/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
