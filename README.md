@@ -1,6 +1,7 @@
-# The Double Cluster in Perseus
-### Image of the Day - NASA - 07/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Dawn of the Crab
+### Image of the Day - NASA - 08/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
