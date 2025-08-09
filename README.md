@@ -1,6 +1,7 @@
-# Dawn of the Crab
-### Image of the Day - NASA - 08/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Interstellar Interloper 3I/ATLAS from Hubble
+### Image of the Day - NASA - 09/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
