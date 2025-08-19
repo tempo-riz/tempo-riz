@@ -1,6 +1,7 @@
-# NGC 1309: A Useful Spiral Galaxy
-### Image of the Day - NASA - 18/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Giant Galaxies in Pavo
+### Image of the Day - NASA - 19/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
