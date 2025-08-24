@@ -1,6 +1,7 @@
-# Fishing for the Moon
-### Image of the Day - NASA - 23/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# The Spinning Pulsar of the Crab Nebula
+### Image of the Day - NASA - 24/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
