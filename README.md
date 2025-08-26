@@ -1,6 +1,7 @@
-# The Meteor and the Star Cluster
-### Image of the Day - NASA - 25/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# A Leaky Solar Prominence
+### Other of the Day - NASA - 26/08/2025
+<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
