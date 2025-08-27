@@ -1,6 +1,7 @@
-# A Leaky Solar Prominence
-### Other of the Day - NASA - 26/08/2025
-<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# WISPIT 2b: Exoplanet Carves Gap in Birth Disk
+### Image of the Day - NASA - 27/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
