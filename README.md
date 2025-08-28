@@ -1,6 +1,7 @@
-# WISPIT 2b: Exoplanet Carves Gap in Birth Disk
-### Image of the Day - NASA - 27/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Galaxies, Stars, and Dust
+### Image of the Day - NASA - 28/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
