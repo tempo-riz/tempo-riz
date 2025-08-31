@@ -1,6 +1,7 @@
-# A Two Percent Moon
-### Image of the Day - NASA - 30/08/2025
-<img src="https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# NGC 7027: The Pillow Planetary Nebula
+### Image of the Day - NASA - 31/08/2025
+<img src="https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
