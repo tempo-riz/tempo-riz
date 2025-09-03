@@ -1,6 +1,7 @@
-# The Horsehead and Flame Nebulas
-### Image of the Day - NASA - 02/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Cir X-1: Jets in the Africa Nebula
+### Image of the Day - NASA - 03/09/2025
+<img src="https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
