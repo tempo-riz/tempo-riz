@@ -1,6 +1,7 @@
-# 47 Tucanae: Globular Star Cluster
-### Image of the Day - NASA - 05/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Sardinia Sunset
+### Image of the Day - NASA - 06/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
