@@ -1,6 +1,7 @@
-# Up from the Earth: Gigantic Jet Lightning
-### Image of the Day - NASA - 09/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# The Great Lacerta Nebula
+### Image of the Day - NASA - 10/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
