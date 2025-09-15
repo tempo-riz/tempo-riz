@@ -1,6 +1,7 @@
-# Planets of the Solar System: Tilts and Spins
-### Video of the Day - NASA - 14/09/2025
-[![watch on youtube](https://img.youtube.com/vi/my1euFQHH-o/mqdefault.jpg)](https://www.youtube.com/embed/my1euFQHH-o?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Earth During a Powerful Solar Storm
+### Other of the Day - NASA - 15/09/2025
+<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
