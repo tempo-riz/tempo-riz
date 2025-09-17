@@ -1,6 +1,7 @@
-# New Comet SWAN25B over Mexico
-### Image of the Day - NASA - 16/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Nebulas and Clusters in Sagittarius
+### Image of the Day - NASA - 17/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
