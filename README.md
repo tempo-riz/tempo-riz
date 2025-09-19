@@ -1,6 +1,7 @@
-# Comet C/2025 R2 (SWAN)
-### Image of the Day - NASA - 18/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# The NGC 6914 Complex
+### Image of the Day - NASA - 19/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
