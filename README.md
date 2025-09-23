@@ -1,6 +1,7 @@
-# Equinox at Saturn
-### Image of the Day - NASA - 22/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# NGC 6357: Cathedral to Massive Stars
+### Image of the Day - NASA - 23/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
