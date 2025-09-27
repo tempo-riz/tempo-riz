@@ -1,6 +1,7 @@
-# A SWAN, an ATLAS, and Mars
-### Image of the Day - NASA - 26/09/2025
-<img src="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# A Rocket in the Sun
+### Image of the Day - NASA - 27/09/2025
+<img src="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
