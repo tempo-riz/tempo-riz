@@ -1,6 +1,7 @@
 # Astronomy Picture of the Day
 ### Image of the Day - NASA - 03/11/2025
-<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
