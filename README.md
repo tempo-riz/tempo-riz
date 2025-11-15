@@ -1,6 +1,7 @@
-# Florida Northern Lights
-### Image of the Day - NASA - 14/11/2025
-<img src="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Andromeda and Friends
+### Image of the Day - NASA - 15/11/2025
+<img src="https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
