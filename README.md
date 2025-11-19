@@ -1,6 +1,7 @@
-# The Galactic Plane: Radio Versus Visible
-### Other of the Day - NASA - 18/11/2025
-<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Chamaeleon Dark Nebulas
+### Image of the Day - NASA - 19/11/2025
+<img src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
