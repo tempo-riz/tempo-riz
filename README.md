@@ -1,6 +1,7 @@
-# Chamaeleon Dark Nebulas
-### Image of the Day - NASA - 19/11/2025
-<img src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Alnitak, Alnilam, Mintaka
+### Image of the Day - NASA - 20/11/2025
+<img src="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
