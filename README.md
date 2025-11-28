@@ -1,6 +1,7 @@
-# Portrait of NGC 1055
-### Image of the Day - NASA - 27/11/2025
-<img src="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# NGC 6888: The Crescent Nebula
+### Image of the Day - NASA - 28/11/2025
+<img src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
