@@ -1,6 +1,7 @@
-# 3I ATLAS: Tails of an Interstellar Comet
-### Image of the Day - NASA - 01/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# M77: Spiral Galaxy with an Active Center
+### Image of the Day - NASA - 02/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
