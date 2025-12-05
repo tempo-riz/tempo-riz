@@ -1,6 +1,7 @@
-# Galaxies in the Furnace
-### Image of the Day - NASA - 04/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# The Bipolar Jets of KX Andromedae
+### Image of the Day - NASA - 05/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
