@@ -1,6 +1,7 @@
-# Apollo 17 at Shorty Crater
-### Image of the Day - NASA - 06/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# The Sun and Its Missing Colors
+### Image of the Day - NASA - 07/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
