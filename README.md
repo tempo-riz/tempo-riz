@@ -1,6 +1,7 @@
-# The Sun and Its Missing Colors
-### Image of the Day - NASA - 07/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Flying Over the Earth at Night
+### Video of the Day - NASA - 08/12/2025
+[![watch on youtube](https://img.youtube.com/vi/FG0fTKAqZ5g/mqdefault.jpg)](https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
