@@ -1,6 +1,7 @@
-# The Heart of the Soul Nebula
-### Image of the Day - NASA - 09/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# The Horsehead Nebula
+### Image of the Day - NASA - 10/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
