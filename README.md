@@ -1,6 +1,7 @@
-# Northern Fox Fires
-### Image of the Day - NASA - 12/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Orion and the Ocean of Storms
+### Image of the Day - NASA - 13/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
