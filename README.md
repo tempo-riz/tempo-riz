@@ -1,6 +1,7 @@
-# Gemini Meteors over Snow Capped Mountains
-### Image of the Day - NASA - 15/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Andromeda and Sprites over Australia
+### Image of the Day - NASA - 16/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
