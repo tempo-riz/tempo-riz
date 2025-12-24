@@ -1,6 +1,7 @@
-# Red Sprites and Circular Elves Lightning over Italy
-### Image of the Day - NASA - 23/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Mystery: Little Red Dots in the Early Universe
+### Image of the Day - NASA - 24/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
