@@ -1,6 +1,7 @@
-# Unicorn, Fox Fur and Christmas Tree
-### Image of the Day - NASA - 25/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# 3I/ATLAS Flyby
+### Image of the Day - NASA - 26/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
