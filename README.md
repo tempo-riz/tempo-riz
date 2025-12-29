@@ -1,6 +1,7 @@
-# NGC 1898: Globular Cluster in the Large Magellanic Cloud
-### Image of the Day - NASA - 28/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# M1: The Crab Nebula
+### Image of the Day - NASA - 29/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
