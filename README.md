@@ -1,6 +1,7 @@
-# M1: The Crab Nebula
-### Image of the Day - NASA - 29/12/2025
-<img src="https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# An Artificial Comet
+### Image of the Day - NASA - 30/12/2025
+<img src="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
