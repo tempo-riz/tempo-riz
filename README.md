@@ -1,6 +1,7 @@
-# Full Moonlight
-### Image of the Day - NASA - 03/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# A Solar Eruption from SDO
+### Other of the Day - NASA - 13/01/2026
+<img src="undefined" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
