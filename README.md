@@ -1,6 +1,7 @@
-# Io in True Color
-### Image of the Day - NASA - 20/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Barred Spiral Galaxy NGC 1365 from Webb
+### Image of the Day - NASA - 21/01/2026
+<img src="https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
