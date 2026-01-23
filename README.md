@@ -1,6 +1,7 @@
-# LDN 1622: Dark Nebula in Orion
-### Image of the Day - NASA - 22/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Planetary Nebula Abell 7
+### Image of the Day - NASA - 23/01/2026
+<img src="https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
