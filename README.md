@@ -1,6 +1,7 @@
-# Planetary Nebula Abell 7
-### Image of the Day - NASA - 23/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Earthset from Orion
+### Image of the Day - NASA - 24/01/2026
+<img src="https://apod.nasa.gov/apod/image/2601/earthset-snap01.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
