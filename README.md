@@ -1,6 +1,7 @@
-# NGC 55: A Galaxy of Nebulas
-### Image of the Day - NASA - 26/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Orion's Treasures over Snowy Mountains
+### Image of the Day - NASA - 27/01/2026
+<img src="https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
