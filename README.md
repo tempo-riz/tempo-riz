@@ -1,6 +1,7 @@
-# M78: Reflecting Blue in a Sea of Red
-### Image of the Day - NASA - 28/01/2026
-<img src="https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# NGC 2442: Galaxy in Volans
+### Image of the Day - NASA - 29/01/2026
+<img src="https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
