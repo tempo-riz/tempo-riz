@@ -1,6 +1,7 @@
-# Orion: The Running Man Nebula
-### Image of the Day - NASA - 02/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Red Spider Planetary Nebula from Webb
+### Image of the Day - NASA - 03/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
