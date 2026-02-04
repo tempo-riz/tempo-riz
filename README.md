@@ -1,6 +1,7 @@
-# Red Spider Planetary Nebula from Webb
-### Image of the Day - NASA - 03/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Spiral Galaxy NGC 1512: Wide Field
+### Image of the Day - NASA - 04/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
