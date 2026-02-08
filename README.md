@@ -1,6 +1,7 @@
-# Crescent Enceladus
-### Image of the Day - NASA - 07/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Active Sunspot Region 4366 Crosses the Sun
+### Image of the Day - NASA - 08/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
