@@ -1,6 +1,7 @@
-# Miranda Revisited
-### Image of the Day - NASA - 09/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# A Year of Sunspots
+### Image of the Day - NASA - 11/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
