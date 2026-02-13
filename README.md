@@ -1,6 +1,7 @@
-# The Bay of Rainbows
-### Image of the Day - NASA - 12/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# NGC 147 and NGC 185
+### Image of the Day - NASA - 13/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/N147N1851024.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
