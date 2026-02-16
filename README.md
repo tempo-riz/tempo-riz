@@ -1,6 +1,7 @@
-# To Fly Free in Space
-### Image of the Day - NASA - 15/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Unexplained Shocks Around a White Dwarf Star
+### Image of the Day - NASA - 16/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
