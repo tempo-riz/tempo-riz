@@ -1,6 +1,7 @@
-# Tails of Comet Wierzchoś
-### Image of the Day - NASA - 17/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Orion's Cradle
+### Image of the Day - NASA - 18/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
