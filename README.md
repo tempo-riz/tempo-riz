@@ -1,6 +1,7 @@
-# Twilight with Moon and Planets
-### Image of the Day - NASA - 21/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Shadow of a Martian Robot
+### Image of the Day - NASA - 22/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
