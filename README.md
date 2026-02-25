@@ -1,6 +1,7 @@
-# Planet Parade over Sydney Opera House
-### Image of the Day - NASA - 24/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# The Egg Nebula from the Hubble Telescope
+### Image of the Day - NASA - 25/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
