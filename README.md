@@ -1,6 +1,7 @@
-# The Egg Nebula from the Hubble Telescope
-### Image of the Day - NASA - 25/02/2026
-<img src="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Webb and Hubble: IC 5332
+### Image of the Day - NASA - 26/02/2026
+<img src="https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
