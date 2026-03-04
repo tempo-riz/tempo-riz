@@ -1,6 +1,7 @@
-# The Dusty Surroundings of Orion and the Pleiades
-### Image of the Day - NASA - 02/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Shapley 1: An Annular Planetary Nebula
+### Image of the Day - NASA - 04/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
