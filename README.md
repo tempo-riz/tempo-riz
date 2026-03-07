@@ -1,6 +1,7 @@
-# The Astrosphere of HD 61005
-### Image of the Day - NASA - 06/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Two Eclipses of Saros 133
+### Image of the Day - NASA - 07/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
