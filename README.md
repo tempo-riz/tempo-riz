@@ -1,6 +1,7 @@
-# The Aurora Tree
-### Image of the Day - NASA - 08/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# The Cranium Nebula from the Webb Telescope
+### Image of the Day - NASA - 09/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
