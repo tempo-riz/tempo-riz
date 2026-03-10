@@ -1,6 +1,7 @@
-# The Cranium Nebula from the Webb Telescope
-### Image of the Day - NASA - 09/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Sky Glows over Paranal Observatory
+### Image of the Day - NASA - 10/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
