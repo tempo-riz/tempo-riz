@@ -1,6 +1,7 @@
-# CG 4: The Globule and the Galaxy
-### Image of the Day - NASA - 11/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Toolondo Totality Trails
+### Image of the Day - NASA - 13/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
