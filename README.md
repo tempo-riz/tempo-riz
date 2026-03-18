@@ -1,6 +1,7 @@
-# The Tadpoles of IC 410
-### Image of the Day - NASA - 17/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Cygnus and the Solitary Tree
+### Image of the Day - NASA - 18/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
