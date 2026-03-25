@@ -1,6 +1,7 @@
-# Light Pillars and Orion over Mohe
-### Image of the Day - NASA - 23/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# The Guardians of Rapa Nui beneath the Milky Way
+### Image of the Day - NASA - 25/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
