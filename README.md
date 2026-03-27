@@ -1,6 +1,7 @@
-# Black Holes and Neutron Stars: 218 Mergers and Counting
-### Image of the Day - NASA - 26/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Hickson 44 in Leo
+### Image of the Day - NASA - 27/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
