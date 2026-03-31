@@ -1,6 +1,7 @@
-# Peculiar Elliptical Galaxy Centaurus A
-### Image of the Day - NASA - 30/03/2026
-<img src="https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Uranus's Largest Moon: Titania
+### Image of the Day - NASA - 31/03/2026
+<img src="https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
