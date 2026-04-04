@@ -1,6 +1,7 @@
-# Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
-### Image of the Day - NASA - 03/04/2026
-<img src="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+# Hello World
+### Image of the Day - NASA - 04/04/2026
+<img src="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
