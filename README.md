@@ -1,6 +1,7 @@
 # Exploring the Antennae
 ### Image of the Day - NASA - 10/04/2026
-<img src="https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+<img src="https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
