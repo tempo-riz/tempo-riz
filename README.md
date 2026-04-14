@@ -1,6 +1,7 @@
 # NGC 602 and Beyond
 ### Image of the Day - NASA - 13/04/2026
-<img src="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+<img src="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
