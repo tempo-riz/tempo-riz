@@ -1,6 +1,7 @@
-# Seeing Titan
-### Image of the Day - NASA - 02/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Trifid Pillars and Jets
+### Image of the Day - NASA - 03/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
