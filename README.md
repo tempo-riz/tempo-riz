@@ -1,6 +1,7 @@
-# The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
-### Image of the Day - NASA - 12/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# NGC 188: Old Cluster in the New General Catalog
+### Image of the Day - NASA - 13/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
