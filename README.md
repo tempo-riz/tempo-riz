@@ -1,6 +1,7 @@
-# NGC 188: Old Cluster in the New General Catalog
-### Image of the Day - NASA - 14/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Aurora Slathers Up the Sky
+### Image of the Day - NASA - 16/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
