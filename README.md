@@ -1,6 +1,7 @@
-# NGC 1300: Barred Spiral Galaxy
-### Image of the Day - NASA - 17/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Unraveling NGC 3169
+### Image of the Day - NASA - 18/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
