@@ -1,6 +1,7 @@
-# Thackeray's Globules
-### Image of the Day - NASA - 25/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# NGC 3660 and Burçin's Galaxy
+### Image of the Day - NASA - 26/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
