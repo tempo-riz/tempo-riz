@@ -1,6 +1,7 @@
-# PK 164 +31.1: The Headphone Nebula
-### Image of the Day - NASA - 27/05/2026
-<img src="https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# NGC 1514: The Crystal Ball Nebula
+### Image of the Day - NASA - 28/05/2026
+<img src="https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
