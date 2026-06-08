@@ -1,6 +1,7 @@
-# Jupiter and Venus from Earth
-### Image of the Day - NASA - 07/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Comet R3 PanSTARRS Through Time
+### Image of the Day - NASA - 08/06/2026
+<img src="https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
