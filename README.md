@@ -1,6 +1,7 @@
-# The Mermaid Nebula Supernova Remnant
-### Image of the Day - NASA - 11/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# Interplanetary Earth
+### Image of the Day - NASA - 13/06/2026
+<img src="https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
