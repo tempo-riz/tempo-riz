@@ -1,6 +1,7 @@
-# Triple Shockwave from Sun Crossing Rocket
-### Image of the Day - NASA - 15/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Possible Supernova Remnant in Galactic Center
+### Image of the Day - NASA - 18/06/2026
+<img src="https://apod.nasa.gov/apod/image/2606/sgrc.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
