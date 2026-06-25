@@ -1,6 +1,7 @@
 # Keogram: The Sky in 2025
 ### Image of the Day - NASA - 21/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+<img src="https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
