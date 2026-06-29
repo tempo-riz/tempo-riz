@@ -1,6 +1,7 @@
-# AR 4478: Giant Sunspot Group
-### Image of the Day - NASA - 28/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# M82: Galaxy with a Supergalactic Wind
+### Image of the Day - NASA - 29/06/2026
+<img src="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
