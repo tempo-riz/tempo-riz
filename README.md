@@ -1,6 +1,7 @@
-# Unusually Smooth Sections of Asteroid Itokawa
-### Image of the Day - NASA - 30/06/2026
-<img src="https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# The Cotton Candy Clouds of Rho Ophiuchi
+### Image of the Day - NASA - 01/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
