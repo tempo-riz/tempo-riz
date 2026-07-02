@@ -1,6 +1,7 @@
-# The Cotton Candy Clouds of Rho Ophiuchi
-### Image of the Day - NASA - 01/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Sibling Supernova Remnants
+### Image of the Day - NASA - 02/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
