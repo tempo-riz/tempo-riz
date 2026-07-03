@@ -1,6 +1,7 @@
-# Sibling Supernova Remnants
-### Image of the Day - NASA - 02/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Three Galaxies in Pavo
+### Image of the Day - NASA - 03/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
