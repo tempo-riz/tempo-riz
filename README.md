@@ -1,6 +1,7 @@
 # NGC 6188: Dragons of Ara
 ### Image of the Day - NASA - 07/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+<img src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
