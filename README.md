@@ -1,6 +1,7 @@
-# Western Moon, Eastern Sea
-### Image of the Day - NASA - 10/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Messier 24: Sagittarius Star Cloud
+### Image of the Day - NASA - 11/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/M24_1088.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
