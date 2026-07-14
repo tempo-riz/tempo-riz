@@ -1,6 +1,7 @@
-# Galaxy NGC 474: Shells and Star Streams
-### Image of the Day - NASA - 13/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# Double Lobed Asteroid Torifune
+### Image of the Day - NASA - 14/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
