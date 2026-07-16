@@ -1,6 +1,7 @@
-# Red Sprites in the Tatacoa Desert
-### Image of the Day - NASA - 15/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
+### Image of the Day - NASA - 16/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
