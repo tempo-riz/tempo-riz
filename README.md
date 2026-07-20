@@ -1,6 +1,7 @@
-# Flying Saucer Crash Lands in Utah Desert
-### Image of the Day - NASA - 19/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+# NGC 3576: The Statue of Liberty Nebula
+### Image of the Day - NASA - 20/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+ 
  
  
  
