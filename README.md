@@ -1,6 +1,7 @@
-# The Large Magellanic Cloud
-### Image of the Day - NASA - 23/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# RCW 86: Historical Supernova Remnant
+### Image of the Day - NASA - 24/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+ 
  
  
  
