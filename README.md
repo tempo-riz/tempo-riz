@@ -1,6 +1,7 @@
-# NGC 7635: The Bubble Nebula
-### Image of the Day - NASA - 27/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Barnards Loop over Twin Volcanoes
+### Image of the Day - NASA - 28/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
