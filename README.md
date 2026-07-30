@@ -1,6 +1,7 @@
-# Psyche Receives Gravity Assist from Mars
-### Video of the Day - NASA - 29/07/2026
-[![watch on youtube](https://img.youtube.com/vi/6_cH5-daLjg/mqdefault.jpg)](https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3)&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Red Sun through Wildfire Smoke
+### Image of the Day - NASA - 30/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+ 
  
  
  
