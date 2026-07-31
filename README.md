@@ -1,6 +1,7 @@
-# Red Sun through Wildfire Smoke
-### Image of the Day - NASA - 30/07/2026
-<img src="https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# NGC 4372 and the Dark Doodad
+### Image of the Day - NASA - 31/07/2026
+<img src="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
