@@ -1,6 +1,7 @@
-# Buck Moon and Belt of Venus
-### Image of the Day - NASA - 01/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# A Fire Rainbow over West Virginia
+### Image of the Day - NASA - 02/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
