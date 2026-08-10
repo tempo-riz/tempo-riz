@@ -1,6 +1,7 @@
-# Contemplating the Sun
-### Image of the Day - NASA - 09/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Three Galaxy Pairs
+### Image of the Day - NASA - 10/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
