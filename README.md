@@ -1,6 +1,7 @@
-# Total Solar Eclipse Over Spain
-### Image of the Day - NASA - 13/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Total Solar Eclipse from Greenland
+### Image of the Day - NASA - 14/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+ 
  
  
  
