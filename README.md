@@ -1,6 +1,7 @@
-# Bright Perseids from Sweden
-### Image of the Day - NASA - 15/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=highcontrast" >
+# Milky Way over Yellowstone
+### Image of the Day - NASA - 16/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
