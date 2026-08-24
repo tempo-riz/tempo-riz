@@ -1,6 +1,7 @@
-# Mostly Perseids
-### Image of the Day - NASA - 22/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Comet 220P in Outburst
+### Image of the Day - NASA - 24/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
