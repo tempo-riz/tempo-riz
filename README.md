@@ -1,6 +1,7 @@
-# Earth's Shadow Visualized with Lunar Eclipses
-### Image of the Day - NASA - 25/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# JWST Images The Lion's Head Nebula
+### Image of the Day - NASA - 26/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
