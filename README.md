@@ -1,6 +1,7 @@
-# The Sky Turns Above Paranal
-### Image of the Day - NASA - 28/08/2026
-<img src="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+# Eclipse Pair
+### Image of the Day - NASA - 29/08/2026
+<img src="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+ 
  
  
  
