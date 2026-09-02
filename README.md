@@ -1,6 +1,7 @@
-# A Plane Lunar Eclipse
-### Image of the Day - NASA - 01/09/2026
-<img src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# Solar Eclipses and Culture
+### Image of the Day - NASA - 02/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+ 
  
  
  
