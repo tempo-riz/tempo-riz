@@ -1,6 +1,7 @@
-# Solar Eclipses and Culture
-### Image of the Day - NASA - 02/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# The Eclipse and the Stork
+### Image of the Day - NASA - 03/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
