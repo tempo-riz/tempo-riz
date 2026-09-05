@@ -1,6 +1,7 @@
-# Nā ʻUhane Māhoe Huki Pū i ke Ola
-### Image of the Day - NASA - 04/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# Chasing the Moon's Shadow
+### Image of the Day - NASA - 05/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
