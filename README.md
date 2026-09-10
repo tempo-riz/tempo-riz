@@ -1,6 +1,7 @@
-# Hubble: Decagon Around Saturn's South Pole
-### Image of the Day - NASA - 08/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=synthwave" >
+# LDN 1295: The Giraffe Nebula
+### Image of the Day - NASA - 10/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=cobalt" >
+ 
  
  
  
