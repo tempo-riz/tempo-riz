@@ -1,6 +1,7 @@
-# Cocoon Nebula Wide Field
-### Image of the Day - NASA - 21/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=merko" >
+# Chance Triple Alignment: Plane, Space Station, Sun
+### Image of the Day - NASA - 22/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
