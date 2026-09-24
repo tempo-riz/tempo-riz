@@ -1,6 +1,7 @@
-# A New Lunar Crater: McGetchin
-### Image of the Day - NASA - 23/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=tokyonight" >
+# The Ghosts of Five Supernovas
+### Image of the Day - NASA - 24/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dracula" >
+ 
  
  
  
