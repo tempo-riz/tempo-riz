@@ -1,6 +1,7 @@
-# Andromeda before Photoshop
-### Image of the Day - NASA - 27/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=radical" >
+# Cosmic Latte: The Average Color of the Universe
+### Image of the Day - NASA - 28/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
