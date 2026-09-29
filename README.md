@@ -1,6 +1,7 @@
-# Cosmic Latte: The Average Color of the Universe
-### Image of the Day - NASA - 28/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+# Sh2-188: The Shrimp Nebula
+### Image of the Day - NASA - 29/09/2026
+<img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=gruvbox" >
+ 
  
  
  
