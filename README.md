@@ -1,6 +1,7 @@
-# Sh2-188: The Shrimp Nebula
-### Image of the Day - NASA - 29/09/2026
-<img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=onedark" >
+# NASA Science
+### Image of the Day - NASA - 01/10/2026
+<img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="nasa picture of the day" width="300"/>&nbsp; &nbsp; &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tempo-riz&theme=dark" >
+ 
  
  
  
